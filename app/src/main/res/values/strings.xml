@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Screen_Conversion</string>
+    <string name="ch">國文</string>
+    <string name="en">英文</string>
+    <string name="math">數學</string>
+    <string name="count">計算</string>
+    <string name="back">回上一頁</string>
+    <string name="totle">總分</string>
+</resources>
